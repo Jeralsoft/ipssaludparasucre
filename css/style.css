@@ -234,9 +234,11 @@ i.icon3{
 .access{
 	padding:5em 0;
 	background: url(../images/access.jpg) no-repeat center top;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	-ms-background-size: cover;
 }
 .access-left span {
 	width: 280px;
@@ -271,9 +273,11 @@ span.thick{
 .services{
 	padding:5em 0;
 	background: url(../images/services.jpg) no-repeat center top;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	-ms-background-size: cover;
 }
 .service_top{
 	text-align:center;
@@ -362,9 +366,11 @@ ul.service_grid li.desc{
 .features{
 	padding:5em 0;
 	background: url(../images/fea.jpg) no-repeat center top;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	-ms-background-size: cover;
 }
 .feature_top{
 	text-align:center;
@@ -450,9 +456,11 @@ i.three{
 	padding:5em 0 2em;
 	padding:5em 0;
 	background: url(../images/skills.jpg) no-repeat center top;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	-ms-background-size: cover;
 }
 .skill-grids{
 	padding:3em 0;
@@ -614,9 +622,11 @@ h3.call_text{
 /*--footer--*/
 .footer{
 	background: url(../images/footer.jpg) no-repeat center top;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	-ms-background-size: cover;
 	padding:5em 0 0;
 }
 .contact-to input[type="text"] {
